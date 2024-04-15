@@ -1,0 +1,5 @@
+# TDHT
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| TDHT 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/TDHT%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/TDHT%20101.png) |  |

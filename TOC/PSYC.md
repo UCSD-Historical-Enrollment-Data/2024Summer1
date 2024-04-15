@@ -1,0 +1,24 @@
+# PSYC
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| PSYC 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%201.png) |  |
+| PSYC 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20101.png) |  |
+| PSYC 105 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20105.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20105.png) |  |
+| PSYC 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20106.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20106.png) |  |
+| PSYC 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20108.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20108.png) |  |
+| PSYC 114 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20114.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20114.png) |  |
+| PSYC 122 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20122.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20122.png) |  |
+| PSYC 124 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20124.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20124.png) |  |
+| PSYC 131 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20131.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20131.png) |  |
+| PSYC 144 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20144.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20144.png) |  |
+| PSYC 154 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20154.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20154.png) |  |
+| PSYC 162 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20162.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20162.png) |  |
+| PSYC 172 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20172.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20172.png) |  |
+| PSYC 178 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20178.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20178.png) |  |
+| PSYC 193 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%20193.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%20193.png) |  |
+| PSYC 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%202.png) |  |
+| PSYC 3 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%203.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%203.png) |  |
+| PSYC 6 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%206.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%206.png) |  |
+| PSYC 60 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%2060.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%2060.png) |  |
+| PSYC 70 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/PSYC%2070.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/PSYC%2070.png) |  |

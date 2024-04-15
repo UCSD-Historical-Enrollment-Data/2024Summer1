@@ -1,0 +1,15 @@
+# USP
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| USP 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%201.png) |  |
+| USP 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20100.png) |  |
+| USP 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20101.png) |  |
+| USP 105 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20105.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20105.png) |  |
+| USP 151 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20151.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20151.png) |  |
+| USP 170 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20170.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20170.png) |  |
+| USP 171GS | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20171GS.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20171GS.png) |  |
+| USP 183GS | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%20183GS.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%20183GS.png) |  |
+| USP 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%202.png) |  |
+| USP 3 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%203.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%203.png) |  |
+| USP 4 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/USP%204.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/USP%204.png) |  |

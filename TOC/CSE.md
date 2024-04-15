@@ -1,0 +1,17 @@
+# CSE
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| CSE 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20101.png) |  |
+| CSE 105 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20105.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20105.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/section/CSE%20105_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_section/CSE%20105_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/section/CSE%20105_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_section/CSE%20105_B.png) |
+| CSE 11 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%2011.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%2011.png) |  |
+| CSE 12 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%2012.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%2012.png) |  |
+| CSE 140 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20140.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20140.png) |  |
+| CSE 141 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20141.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20141.png) |  |
+| CSE 141L | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20141L.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20141L.png) |  |
+| CSE 151A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20151A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20151A.png) |  |
+| CSE 175 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20175.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%20175.png) |  |
+| CSE 190 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%20190.csv) |  |
+| CSE 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%2020.png) |  |
+| CSE 21 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%2021.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%2021.png) |  |
+| CSE 8A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/CSE%208A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/CSE%208A.png) |  |
