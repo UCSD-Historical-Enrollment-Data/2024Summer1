@@ -2,5 +2,5 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| BICD 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/BICD%20100.csv) |  |
-| BICD 102GS | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/BICD%20102GS.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/BICD%20102GS.png) |  |
+| BICD 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/BICD%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/BICD%20100.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall_wide/BICD%20100.png) |  |
+| BICD 102GS | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer1/blob/main/overall/BICD%20102GS.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall/BICD%20102GS.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer1/main/plot_overall_wide/BICD%20102GS.png) |  |

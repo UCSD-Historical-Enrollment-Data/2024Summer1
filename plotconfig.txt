@@ -214,7 +214,7 @@
         }
     ],
     "settings": {
-        "termName": "<TERM>",
+        "termName": "S124",
         "showTotal": True,
         "useEnrolledTtl": True,
         "useMarkers": True,

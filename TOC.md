@@ -64,6 +64,7 @@
 | SE | [SE](TOC/SE.md) |
 | SIO | [SIO](TOC/SIO.md) |
 | SOCI | [SOCI](TOC/SOCI.md) |
+| SOMI | [SOMI](TOC/SOMI.md) |
 | SYN | [SYN](TOC/SYN.md) |
 | TDAC | [TDAC](TOC/TDAC.md) |
 | TDDE | [TDDE](TOC/TDDE.md) |
