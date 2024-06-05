@@ -48,6 +48,7 @@
 | LTCS | [LTCS](TOC/LTCS.md) |
 | LTEA | [LTEA](TOC/LTEA.md) |
 | LTEN | [LTEN](TOC/LTEN.md) |
+| LTFR | [LTFR](TOC/LTFR.md) |
 | LTSP | [LTSP](TOC/LTSP.md) |
 | LTWR | [LTWR](TOC/LTWR.md) |
 | MAE | [MAE](TOC/MAE.md) |
