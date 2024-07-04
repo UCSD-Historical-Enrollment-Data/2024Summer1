@@ -2,6 +2,7 @@
 
 | Subject | Link to Course Data |
 | ------- | ------------------- |
+| AIP | [AIP](TOC/AIP.md) |
 | ANAR | [ANAR](TOC/ANAR.md) |
 | ANBI | [ANBI](TOC/ANBI.md) |
 | ANSC | [ANSC](TOC/ANSC.md) |
